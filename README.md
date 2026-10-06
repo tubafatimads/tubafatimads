@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Tuba Fatima
 
-🎓 B.Ed. Student | 📊 Data Science Analysis with AI Student
+🎓 **B.Ed. Student | 📊 Data Science Analysis with AI Student**
 
-Learning • Building • Growing 💜
+**Learning • Building • Growing** 
 
 ## 👩‍💻 About Me
 
@@ -20,6 +20,14 @@ Currently building my skills step by step to create a better future. 💜
 - 🤖 Artificial Intelligence
 - 📈 Data Visualization
 - 🧠 Machine Learning
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
 
 # 💻 Tech Stack
 
@@ -39,19 +47,7 @@ Currently building my skills step by step to create a better future. 💜
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tubafatimads&theme=dark&hide_border=false)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubafatimads&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tubafatimads&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=tubafatimads&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tubafatimads&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ## 🌐 Socials
 
@@ -59,10 +55,16 @@ Currently building my skills step by step to create a better future. 💜
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuba-fatima-469474441)
 
+### ✍️ Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
 ## 🎯 My Goal
 
 To build a strong career in Data Science, Data Analysis and AI.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
